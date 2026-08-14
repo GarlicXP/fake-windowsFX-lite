@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="fake windowsFX lite/fake windowsFX lite.vcxproj" Id="6dfe6382-be2d-46c5-bc91-59a2760be322" />
+</Solution>
