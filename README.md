@@ -1,3 +1,4 @@
+<img width="400" height="225" alt="屏幕录制 2026-09-12 103758" src="https://github.com/user-attachments/assets/7699cbdf-bb07-439e-b674-16617f52cee8" />
 # WindowsFX Lite
 
 把 [Echooff3/wobbly-windows](https://github.com/Echooff3/wobbly-windows) 浏览器里那套 **弹簧跟手 + 速度倾斜 + 速度拉伸** 做到 Windows 全局：按住任意普通窗口的标题栏拖动，窗口会像那页 demo 一样滞后、倾斜、拉长，松手后再回弹落位。
